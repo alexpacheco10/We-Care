@@ -6,8 +6,8 @@
 <br>
 <br>
 <h1> Um projeto em que utilizei </h1>
-<h3>html</h3>
-<h3>CSS</h3>
+<p>html</p>
+<p>CSS</p>
 <br>
 <br>
 <br>
