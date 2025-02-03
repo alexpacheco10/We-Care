@@ -5,6 +5,9 @@
 <br>
 <br>
 <br>
+<p> Um projeto no qual utilizei </p>
+<h3>html</h3>
+<h3>css</h3>
 
 <img src="https://github.com/alexpacheco10/We-Care/blob/master/img/desktop.png?raw=true">
 
