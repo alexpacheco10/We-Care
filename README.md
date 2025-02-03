@@ -5,9 +5,13 @@
 <br>
 <br>
 <br>
-<p> Um projeto no qual utilizei </p>
+<h1> Um projeto em que utilizei </h1>
 <h3>html</h3>
-<h3>css</h3>
+<h3>CSS</h3>
+<br>
+<br>
+<br>
+
 
 <img src="https://github.com/alexpacheco10/We-Care/blob/master/img/desktop.png?raw=true">
 
