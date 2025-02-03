@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src=>
+<img src="https://github.com/alexpacheco10/We-Care/blob/master/img/desktop.png?raw=true">
 
 
 
